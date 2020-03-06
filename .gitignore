@@ -1,0 +1,46 @@
+# Ignore python cached files
+__pycache__/
+/.pytest_cache/
+/.coverage
+*.pyc
+
+# Ignore quality report files
+/coverage.xml
+/pylint-report.txt
+
+# Ignore IDE files
+.vscode/
+
+# Ignore virtual environments
+env/
+venv/
+.env/
+.venv/
+
+# Ignore dist files/folders
+*.egg-info/
+/dist/
+/python/
+
+# Ignore sphinx folders
+_build/
+_api/
+_static/
+_templates/
+
+# Ignore sonarqube files
+/.scannerwork/
+
+# Ignore bash generated files
+pypirc
+netrc
+pip.conf
+
+# Ignore local prefixed directories on root path
+/local_*/
+
+# Ignore zip files
+*.zip
+
+# Ignore pem files
+*.pem

@@ -1,0 +1,4 @@
+include project.json
+include project.py
+include requirements.txt
+include src/xlr8/_version.py

@@ -1,0 +1,10 @@
+{
+  "description": "Project description",
+  "projectName": "xlr8",
+  "packageName": "xlr8",
+  "deploymentTypes": [
+    "lambda_function",
+    "lambda_layer",
+    "nexus_package"
+  ]
+}
